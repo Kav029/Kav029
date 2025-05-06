@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaviya Sivakumar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+- 👯 I’m looking to collaborate on **Data Analyst**
+
+- 🤝 I’m looking for help with **Data Analyst**
 
 - 📫 How to reach me **kaviyasivakumar029@gmail.com**
 
